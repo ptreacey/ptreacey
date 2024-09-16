@@ -1,6 +1,7 @@
 👋 ¡Hola, soy Pato!
 
 🌟 Un poco sobre mí
+
 Soy un *desarrollador full stack* con una inclinación especial hacia el *backend*. Me encanta crear aplicaciones que no solo funcionen bien, sino que también sean escalables y eficientes. Aunque estoy dando mis primeros pasos en el mundo profesional, ya he trabajado con una variedad de tecnologías modernas y siempre estoy en busca de nuevos desafíos y aprendizajes.
 
 💼 *Especialización*: Desarrollo Backend
