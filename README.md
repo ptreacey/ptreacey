@@ -10,8 +10,6 @@ Soy un *desarrollador full stack* con una inclinación especial hacia el *backen
 
 🔧 *Competencias*: Desarrollo de APIs RESTful, diseño y optimización de bases de datos, autenticación y mejora del rendimiento
 
-🌱 Actualmente explorando técnicas avanzadas tanto en frontend como en backend
-
 💬 *Idiomas*: Hablo inglés y español con fluidez, lo que me permite colaborar en equipos internacionales
 
 ## 🚀 Mis pasiones
