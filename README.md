@@ -1,4 +1,4 @@
-👋 ¡Hola, soy Pato!
+# 👋 ¡Hola, soy Pato!
 
 🌟 Un poco sobre mí
 
